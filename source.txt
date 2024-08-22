@@ -1,0 +1,22 @@
+Python API Development - Comprehensive Course for Beginners
+https://www.youtube.com/watch?v=0sOvCWFmrtA
+
+Ez a videó tömény tudás, ingyen!
+Nagyon sok infót és elméletet is elmagyaráz a csóka, érdemes megnézni a timestamp-eket a vidó alatt és beletekergetni, ha külön szükséged van egy kis frissítésre.
+
+Néhány téma:
+-Fast API működése, setupolása
+-venv használata
+-CRUD operations
+-Postman használata
+-HTTP visszatérési kódok
+-API dokumentáció
+-pydantic sémák
+-postgres (adatbázisok) működése
+-raw SQL query parancsok
+-ORM (Object-relational mapping) jelentése és működése
+-előbbi megvalósulása pythonban: sqlalchemy
+-autentikáció, felhasználók kezelése (JWT, encryptálás)
+-.env fájl használata
+-alembic (database migration tool)
+-CORS (Cross Origin Resource Sharing) policy

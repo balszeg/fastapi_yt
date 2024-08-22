@@ -1,0 +1,12 @@
+Direkt van venv-ben az egész. A videós készítője így kérte, hogy fixen egy FastAPI verzióval fusson a project. Ha jövőben előakarod venni, akkor ne kelljen semmit se módosítani.
+
+Ha elindítod PyCharm-ban a dolgot, akkor a terminálban (figyelve rá, hogy venv-ben legyen), ezzel a paranccsal tudod futtatni a szervert: 
+uvicorn main:app --reload
+Átszervezés után:
+uvicorn app.main:app --reload
+
+A --reload fontos, hogy mindig újra töltse a változásokat.
+
+A FastAPI automatikusan generál kétfajta doksit is. Itt találod őket:
+http://127.0.0.1:8000/docs (swagger style)
+http://127.0.0.1:8000/redoc (ReDoc style)
