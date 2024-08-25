@@ -20,3 +20,12 @@ Néhány téma:
 -.env fájl használata
 -alembic (database migration tool)
 -CORS (Cross Origin Resource Sharing) policy
+-Heroku setup és használata, termék deployolás (sajna, amikor a videót készítette, akkor volt ingyenes ez az oldal, azóta már kér deployoláshoz bankkártyadatokat)
+-Ubuntu VM létrehozás, setupolása (erre ki is tér, hogy vannak online felhő alapú szolgáltatók, ahol ezzel lehet szórakozni, de ezek fizetősek: Digitalocean, AWS, Azure, GCP. Ezenkívül persze bármilyen hardwareren tudsz ilyet setupolni saját gépeden, raspberry-n, stb.)
+-NGINX értelme, konfigurálása
+-saját domain setup
+-SSL/HTTPS setup
+-Dockerfile, image, compose, dockerhub használata
+-Tesztelése a projectnek pytest-tel, tesztelés alapjainak elmélete, logikája, tesztesetek
+-CI/CD alapok, a projecttel bemutatva
+-GitHub actions
