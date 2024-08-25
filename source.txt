@@ -3,6 +3,7 @@ https://www.youtube.com/watch?v=0sOvCWFmrtA
 
 Ez a videó tömény tudás, ingyen!
 Nagyon sok infót és elméletet is elmagyaráz a csóka, érdemes megnézni a timestamp-eket a vidó alatt és beletekergetni, ha külön szükséged van egy kis frissítésre.
+Lényegében azokon a tool-okon megy végig, amiket felhasznál a projecthez. Alaposan elmagyarázza a dolgokat, de ki is emeli sokszor, hogy igazából a doksikon megy végig. Ajánlja, hogy azokat is olvassuk el.
 
 Néhány téma:
 -Fast API működése, setupolása
