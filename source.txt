@@ -29,3 +29,4 @@ Néhány téma:
 -Tesztelése a projectnek pytest-tel, tesztelés alapjainak elmélete, logikája, tesztesetek
 -CI/CD alapok, a projecttel bemutatva
 -GitHub actions
+-GitHub secrets
